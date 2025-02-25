@@ -23,7 +23,7 @@ Setup Environment Variables
 
 Create a .env file in the backend directory and add the necessary configurations, such as:
 
-MONGO_URI="mongodb+srv://yaaryash:jod902117%40@cluster0.bt1wv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI="mongodb+srv://yaaryash:yaaryash3434@cluster0.bt1wv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 JWT_SECRET=yaaryash
 PORT=5000
